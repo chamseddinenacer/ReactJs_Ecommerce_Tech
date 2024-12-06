@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "username": "JohnDoe",
+      "email": "user@example.com",
+      "password": "password123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X2000",
+      "price": 599.99,
+      "category": "Phones",
+      "brand": "TechBrand",
+      "description": "Smartphone dernière génération avec écran OLED 6.5\", connectivité 5G, triple capteur photo et batterie longue durée.",
+      "imageUrl": "https://www.01net.com/app/uploads/2023/07/3505-mea_1400.webp",
+      "inStock": true,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "name": "Écouteurs Sans Fil Pro",
+      "price": 249.99,
+      "category": "Audio",
+      "brand": "SoundWave",
+      "description": "Écouteurs True Wireless avec réduction de bruit active, autonomie de 24 heures, et son haute définition.",
+      "imageUrl": "https://images.frandroid.com/wp-content/uploads/2024/11/guide-meilleurs-ecouteursbluetooth-2024.jpg",
+      "inStock": false,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Smart TV 4K 55\" OLED",
+      "price": 799.99,
+      "category": "Télévisions",
+      "brand": "PixelMax",
+      "description": "Téléviseur OLED 4K Ultra HD, HDR, Smart TV avec système d'exploitation intégré et connectivité WiFi.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/YaWSd7qbkHCBq7LSdrheM4.jpg",
+      "inStock": true,
+      "quantity": 2
+    },
+    {
+      "id": 4,
+      "name": "Écran LED 4K Ultra HD 50\"",
+      "price": 699.99,
+      "category": "Télévisions",
+      "brand": "PixelMax",
+      "description": "Téléviseur LED 4K Ultra HD avec HDR10, applications Smart TV intégrées et connectivité WiFi.",
+      "imageUrl": "https://images.philips.com/is/image/PhilipsConsumer/android?$pnglarge$&wid=1200&fit=constrain",
+      "inStock": true,
+      "quantity": 11
+    },
+    {
+      "id": 5,
+      "name": "Casque Bluetooth Confort Max",
+      "price": 129.99,
+      "category": "Audio",
+      "brand": "PixelMax",
+      "description": "Casque sans fil avec autonomie de 30 heures, son surround et coussins ultra-confortables.",
+      "imageUrl": "https://image.coolblue.be/840x473/content/2b50b91f0633021f1fca9988581bdcba",
+      "inStock": true,
+      "quantity": 19
+    },
+    {
+      "id": 6,
+      "name": "Barre de Son 5.1 Dolby Atmos",
+      "price": 399.99,
+      "category": "Audio",
+      "brand": "SoundWave",
+      "description": "Barre de son avec système 5.1, Dolby Atmos, et connectivité Bluetooth pour une expérience immersive.",
+      "imageUrl": "https://i.rtings.com/assets/pages/PtBw4Lf8/best-tv-medium.jpg?format=auto",
+      "inStock": true,
+      "quantity": 13
+    },
+    {
+      "id": 7,
+      "name": "Téléviseur QLED 65\" Premium",
+      "price": 1299.99,
+      "category": "Télévisions",
+      "brand": "PixelMax",
+      "description": "Téléviseur QLED 4K Premium, HDR10+, assistant vocal intégré et design sans bordures.",
+      "imageUrl": "https://www.massou-freres-electronique.com/images/contenu/20240926/66f5596b2e2df_L.jpg",
+      "inStock": true,
+      "quantity": 14
+    },
+    {
+      "id": 8,
+      "name": "Smartphone Galaxy Z Fold 3",
+      "price": 1799.99,
+      "category": "Phones",
+      "brand": "PixelMax",
+      "description": "Smartphone pliable haut de gamme avec écran AMOLED, 5G et fonctionnalités multitâches avancées.",
+      "imageUrl": "https://images.frandroid.com/wp-content/uploads/2024/04/samsung-galaxy-a35-13-scaled.jpg",
+      "inStock": true,
+      "quantity": 17
+    }
+  ]
+}
